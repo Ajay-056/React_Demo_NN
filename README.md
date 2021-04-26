@@ -1,4 +1,4 @@
-## Available Scripts
+## React_Demo_NN
 
 In the project directory, you can run:
 
